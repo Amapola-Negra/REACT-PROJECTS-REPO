@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+#contenido{
+  height: 100%;
+}
+#quote-box{
+  margin: 20%;
+  margin-top: 0;
+  padding: 1%;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+#text{
+  margin: 50px;
+  font-size: 60px;
+}
+#author{
+  margin: 10px;
+  text-align: right;
+
+}
+#new-quote{
+  border-radius: 6px;
+  margin: 10px;
+  padding: 15px;
+  font-size: 25px;
+}
