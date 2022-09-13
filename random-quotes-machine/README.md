@@ -1,5 +1,5 @@
 ## Purpose 
-This app displays random quotes using REACT.
+This app displays random quotes using REACT.It is part of the Scrimba course "The Frontend Developer Career Path.
 
 ## Screenshot
 <img src="RANDOM-QUOTES.png" width="400px">
