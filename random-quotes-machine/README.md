@@ -1,5 +1,5 @@
 ## Purpose 
-This app displays random quotes using REACT.It is part of the FreeCodeCamp course "Responsive Web Design Certification".
+This app displays random quotes using REACT. It is part of the FreeCodeCamp course "Responsive Web Design Certification".
 
 ## Screenshot
 <img src="RANDOM-QUOTES.png" width="400px">
