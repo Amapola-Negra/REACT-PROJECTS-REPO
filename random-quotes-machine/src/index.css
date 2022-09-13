@@ -6,9 +6,8 @@ body{
   height: 100%;
 }
 #quote-box{
-  border: 1px solid magenta;
   margin: 20%;
-  margin-top: 1em;
+  margin-top: 5em;
   padding: 1%;
 
   display: flex;
