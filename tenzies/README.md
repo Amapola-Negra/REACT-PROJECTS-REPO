@@ -6,4 +6,4 @@ This is a dice game using REACT. It is part of the Scrimba course "The Frontend 
 <img src="TENZIES.PNG" width="400px">
 
 ## See it live
-<a href="https://spontaneous-pastelito-8ddb94.netlify.app/">Amazing Places to See</a>
+<a href="https://astounding-clafoutis-3453f9.netlify.app/">Tenzies</a>
