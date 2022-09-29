@@ -89,7 +89,7 @@ export default function App() {
         <div className="main">
             {/** conditional rendering game/intro screens*/}
             { play && <div className="game">
-                /*{tenzies && <Confetti />}*/
+                {/*tenzies && <Confetti />*/}
                 <h1 className="title">Tenzies</h1>
                 <div className="infos">
                     <div className="instructions">
