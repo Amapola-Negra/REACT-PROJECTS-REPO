@@ -1,0 +1,102 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Kumbh Sans', sans-serif;
+}
+body{
+  background-color: #edede9;
+}
+img{
+  max-width: 90%;
+}
+button{
+  font-family: inherit;
+  font-weight: bold;
+  font-size: 1em;
+  width: fit-content;
+  padding: 1em;
+  background-color:#1b4965;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  letter-spacing: .2em;
+  cursor: pointer;
+  
+}
+button:hover,
+button:focus{
+  background-color: grey;
+}
+/*___________Layout___________________*/
+.container,
+.introduction,
+.game,
+.answers,
+.checking{
+  display: flex;
+}
+.container,
+.game{
+  margin: 0 auto;
+}
+.introduction,
+.game button{
+  margin: 2em auto;
+}
+.container{
+  background-color: white;
+  width: 60%;
+  align-items: center;
+  align-content: center;
+}
+.introduction{
+  border: 6px solid #e56b6f;
+  width: 90%;
+  height: 90vh;
+  flex-direction: column;
+  align-items: center;
+}
+.game{
+  width: 90%;
+  flex-direction: column;
+}
+.question-items{
+  padding: 1em;
+  border-bottom: 1px solid black;
+}
+.answers{
+  justify-content: space-around;
+  padding-bottom: 1em;
+}
+.answer-btn{
+  max-width: 200px;
+  cursor: pointer;
+  border: 1px solid black;
+  padding: .5em 1.2em;
+  border-radius: 5px;
+}
+.checking{
+  align-items: center;
+  align-content: center;
+  justify-content: space-between;
+}
+.checking button{
+  margin-right: 0;
+}
+
+/*____________responsive______________*/
+@media (max-width: 900px){
+  .container{
+    width: 90%;
+  }
+  .introduction{
+    padding-top: 7em;
+  }
+  .introduction button{
+    margin-top: 7em;
+  }
+  .answers{
+    flex-direction: column;
+    gap: 1em;
+    align-items: center;
+  }
+}
