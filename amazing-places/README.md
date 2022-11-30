@@ -1,5 +1,5 @@
 ## Purpose 
-This app displays a selection of places using REACT. It is part of the Scrimba course "The Frontend Developer Career Path.
+This app displays a selection of places using REACT. It is part of the Scrimba course "The Frontend Developer Career Path".
 
 ## Screenshot
 <img src="AMAZING-PLACES-PICTURE.PNG" width="400px">
