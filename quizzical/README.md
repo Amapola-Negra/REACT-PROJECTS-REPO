@@ -5,4 +5,4 @@ This app displays a selection of random questions with several answers to choose
 <img src="QUIZZICAL-PORT.PNG" width="400px">
 
 ## See it live
-<a href="https://spontaneous-pastelito-8ddb94.netlify.app/">Quizzical</a>
+<a href="https://courageous-starship-d688d5.netlify.app/">Quizzical</a>
