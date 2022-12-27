@@ -1,5 +1,5 @@
 ## Purpose 
-This is a game using REACT. The player have to reach all the dices display the same number. It is part of the Scrimba course "The Frontend Developer Career Path".
+This is a game using REACT. The player wins when all the dice show the same number. It is part of the Scrimba course "The Frontend Developer Career Path".
 
 ## Screenshot
 <img src="TENZIES.PNG" width="400px">
